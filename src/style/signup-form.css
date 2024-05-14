@@ -1,0 +1,23 @@
+/* .signup-title{
+    text-align: center;
+} */
+.signup-title{
+    text-align: center;
+    font-size: 30px;
+}
+.signup-title-container{
+    margin-left: 120px;
+}
+.sign-up-button{
+    margin-left: 45px !important;
+
+}
+.sign-up-button:hover{
+    background-color: #FAEBCD !important;
+}
+
+.ant-col .ant-form-item-control .ant-col-xs-24 .ant-col-xs-offset-0 .ant-col-sm-16 .ant-col-sm-offset-8 .css-dev-only-do-not-override-1uweeqc{
+   justify-content: center;
+    /* margin-left: 200px !important; */
+
+}

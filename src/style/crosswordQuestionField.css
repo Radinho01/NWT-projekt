@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+.crosswordQuestionField-button{
+    font-family: "Truculenta", sans-serif;
+    font-optical-sizing: auto;
+    height: 65px;
+    width: 65px;
+    background-color: #FAEBCD;
+    color: black;
+    font-size: 12px;
+    line-height: 12px;
+    border-width: 1px;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    padding-bottom: 5px;
+    z-index: 0;
+
+}
+.crosswordQuestionField-button:hover{
+    transform: scale(1.5);
+    z-index: 1;
+    overflow: visible;
+}

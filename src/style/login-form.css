@@ -1,0 +1,31 @@
+.email-container{
+    margin-left: 125px;
+}
+.password-container{
+    margin-left: 125px;
+}
+.remember-me-checkbox{
+    margin-left: 175px;
+}
+.login-form-button:hover{
+    background-color:#FAEBCD !important;
+}
+.login-form-button{
+    margin-left: 45px;
+    text-align: center;
+}
+.login-title{
+    text-align: center;
+    font-size: 30px;
+}
+.login-title-container{
+    margin-left: 120px;
+}
+
+.ant-checkbox-inner{
+    border-color: #F7C873 !important;
+}
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #F7C873 !important;
+    border-color: #F7C873 !important;
+}

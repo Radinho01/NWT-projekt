@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=PT+Serif&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+.homepage {
+  text-align: center;
+}
+.title{
+  font-family: "Great Vibes", cursive;
+  color: #F7C873;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 200px;
+  padding-top: 150px;
+  margin-bottom: 0px;
+}
+.slogan1{
+  color: #FAEBCD;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.slogan2{
+  color: #FAEBCD;
+  margin-top: 10px;
+}
+.homepage{
+  margin-top: 0px;  
+  box-sizing: border-box;
+  background-image: url("../images/crossword-puzzle3.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.crossword-puzzle-image{
+  width: 100vw ;
+  height:100vh;
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.log-in-button{
+  margin-right: 15px;
+}
+.sing-up-button{
+  margin-left: 15px;
+}
+.log-in-button:hover{
+  border-color: #F7C873 !important;
+  color: #F7C873 !important;
+}
+.sing-up-button:hover{
+  background-color: #FAEBCD !important;
+}

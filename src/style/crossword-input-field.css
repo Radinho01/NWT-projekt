@@ -1,0 +1,16 @@
+
+.inputField{
+    height: 65px;
+    width: 65px;
+    font-size: 30px;
+    border-radius: 0px;
+    border-width: 1px;
+    text-align: center;
+    
+}
+.inputField:focus{
+    outline: none;
+    background-color: rgb(239, 238, 233);
+
+
+}
